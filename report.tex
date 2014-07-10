@@ -1,0 +1,68 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage[print,nopanel]{pdfscreen}
+\usepackage[left=3.5cm, right=1.25cm, top=2.5cm, bottom=1.25cm]{geometry}
+\begin{print}
+\usepackage{times}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\lhead{\large\bfseries 'Project Name'}
+\pagestyle{fancy}
+\end{print}
+\begin{screen}
+
+\usepackage{setspace}
+\end{screen}
+\usepackage{graphicx}
+
+\begin{document}
+\input{input/title.tex}
+\footskip 0.7cm
+\thispagestyle{empty} 
+
+\newpage
+\cfoot{\thepage}
+
+\newpage
+\input{input/Acknowledgement.tex}
+
+\newpage
+\tableofcontents
+
+\newpage
+\listoffigures
+
+\newpage
+\pagenumbering{arabic}
+\cfoot{\thepage}
+
+\newpage
+\section{Introduction To Organisation}
+\input{input/company.tex}
+
+\newpage
+\section{Introduction}
+\input{input/intro.tex}
+
+\newpage
+\section{\LaTeX}
+\input{input/latex.tex}
+
+\newpage
+\section{Project Work}
+\input{input/project.tex}
+
+\newpage
+\section{Results and Discussions}
+\input{input/result.tex}
+
+\newpage
+\section{Conclusion and Future Scope}
+\input{input/conclusion.tex}
+
+\newpage
+\section{Bibliography}
+\input{input/bibliography.tex}
+
+\end{document}

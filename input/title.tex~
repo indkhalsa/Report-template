@@ -1,0 +1,62 @@
+\begin{document}
+\thispagestyle{empty}
+\begin{center}  
+{\fontsize{24}{30}\selectfont Project Name}
+\vspace*{3\baselineskip}
+
+{\bfseries\fontsize{14}{30}\selectfont Report}
+
+\vspace*{1\baselineskip}
+
+SUBMITTED IN PARTIAL FULLFILLMENT OF THE REQUIREMENT FOR    
+
+Six Week Industrial Training
+
+\vspace*{2\baselineskip}
+
+at
+
+\vspace*{2\baselineskip}
+
+{\bfseries\fontsize{14}{20}\selectfont 
+
+Testing and Consultancy Cell, GNDEC
+
+     
+(from June, 2014 to July, 2014)
+
+}
+
+\vspace*{3\baselineskip}    
+
+SUBMITTED BY
+
+\vspace*{\baselineskip}
+
+{\fontsize{14}{15}\selectfont
+
+Name
+
+Branch
+
+Roll No
+
+Uni. Roll No.
+}
+
+\vspace*{3\baselineskip}
+\includegraphics[scale=0.6]{images/gne.jpg}
+\vspace*{4\baselineskip}
+\begin{flushbottom}
+{\bfseries\fontsize{14}{20}\selectfont 
+
+Information Technology Department
+
+GURU NANAK DEV ENGINEERING COLLEGE}
+
+{\fontsize{14}{15}\selectfont Ludhiana, India}
+
+
+\end{flushbottom}
+\end{center}
+\end{document}

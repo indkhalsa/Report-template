@@ -1,0 +1,7 @@
+\usepackage{times}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+\usepackage{graphicx}
+\lhead{\large\bfseries 'Project Name'}
+\pagestyle{fancy}
